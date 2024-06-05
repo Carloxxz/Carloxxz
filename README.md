@@ -47,7 +47,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,express,figma,github,html,js,tailwind,mongodb,mysql,nextjs,nodejs,postman,react,redux,ts,vscode,angular,bash,bootstrap,notion,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,express,figma,github,html,js,tailwind,mongodb,mysql,sequelize,nextjs,nodejs,postman,react,redux,ts,jest, vscode,angular,bash,bootstrap,notion,vite,jquery&perline=14" />
   </a>
 </p>
 
